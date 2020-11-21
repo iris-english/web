@@ -1,0 +1,18 @@
+.practice-header {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 50px;
+}
+
+.quiz {
+  margin-left: 720px;
+}
+
+.practice-text {
+  margin-top: 40px;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: -25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

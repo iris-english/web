@@ -1,0 +1,28 @@
+.headers {
+  margin-top: 20px;
+  font-size: 50px;
+}
+
+.text {
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+
+.source {
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+.source:hover {
+  color: #242424;
+}

@@ -1,0 +1,31 @@
+.listening-header {
+  margin-top: 20px;
+  font-size: 50px;
+}
+
+.video {
+  margin-top: 20px;
+  margin-left: 1385px;
+  font-size: 30px;
+  color: #000;
+}
+.video:hover {
+  color: #242424;
+}
+
+.questions-container {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+.answers {
+  margin-top: 10px;
+  margin-left: 650px;
+  margin-bottom: 50px;
+}
